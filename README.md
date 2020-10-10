@@ -21,9 +21,7 @@ Você foi contratada para fazer a implementação de um sistema de uma livraria 
     
     "quantidade": 
     
-    "formatoDigital": (booleano)
-    
-}
+    "formatoDigital": (booleano) }
 
 2 - A mesma livraria decidiu integrar um sisteminha em que será possível a adição de seus funcionários. A contratante espera que no sistema ela possa fazer a inclusão dos dados de cada um deles, contendo:
 
@@ -35,13 +33,13 @@ Você foi contratada para fazer a implementação de um sistema de uma livraria 
     
     "idade":
     
-    "setor:
+    "setor":
     
     "funcao":
     
     "data da admissão" 
     
-}
+    "aniversario:  }
 
 3 - Nossa livraria gostaria de garantir que será possível a exclusão do registro de determinado livro.
 
