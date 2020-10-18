@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "nome": "Me poupe",
+    "autor": "Nathalia Arcuri",
+    "categoria": "Educação financeira",
+    "quantidade": 10,
+    "formatoDigital": true
+  },
+  {
+    "id": 2,
+    "nome": "Vá lá e faz",
+    "autor": "Tiago Mattos",
+    "categoria": "Empreendedorismo",
+    "quantidade": 5,
+    "formatoDigital": true
+  },
+  {
+    "id": 3,
+    "nome": "Produtividade para quem quer tempo",
+    "autor": "Geronimo Theml",
+    "categoria": "Gerenciamento de tempo",
+    "quantidade": 20,
+    "formatoDigital": false
+  },
+  {
+    "id": 4,
+    "nome": "O milagre da manhã",
+    "autor": "Hal Elrod",
+    "categoria": "Gerenciamento de tempo",
+    "quantidade": 50,
+    "formatoDigital": false
+  },
+  {
+    "id": 5,
+    "nome": "A fórmula de lançamento",
+    "autor": "Jeff Walker",
+    "categoria": "Marketing",
+    "quantidade": 30,
+    "formatoDigital": false
+  },
+  {
+    "id": 6,
+    "nome": "O poder do hábito",
+    "autor": "Charles Duhigg",
+    "categoria": "Gerenciamento de tempo",
+    "quantidade": 40,
+    "formatoDigital": true
+  },
+  {
+    "id": 7,
+    "nome": "As armas da persuasão",
+    "autor": "Robert B. Cialdini",
+    "categoria": "Marketing",
+    "quantidade": 20,
+    "formatoDigital": false
+  },
+  {
+    "id": 8,
+    "nome": "Milagres que acontecem",
+    "autor": "Mary Kay Ash",
+    "categoria": "Empreendedorismo",
+    "quantidade": 10,
+    "formatoDigital": false
+  },
+  {
+    "id": 9,
+    "nome": "O código da mudança",
+    "autor": "Othon Gama",
+    "categoria": "Auto desenvolvimento",
+    "quantidade": 80,
+    "formatoDigital": false
+  },
+  {
+    "id": 11,
+    "nome": "O jeito Harvard de ser Feliz",
+    "autor": "Shawn Achor",
+    "categoria": "Auto desenvolvimento",
+    "quantidade": 280,
+    "formatoDigital": false
+  },
+  {
+    "id": 12,
+    "nome": "Isaac Newton e sua maçã",
+    "autor": "Kjartan Poskitt",
+    "categoria": "Inovação",
+    "quantidade": 20,
+    "formatoDigital": false
+  }
+]
