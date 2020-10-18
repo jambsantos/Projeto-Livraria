@@ -1,10 +1,11 @@
 const express = require("express");
 const router = express.Router();
 
-router.get("/", function (req, res) {
+router.get('/', (req, res) => {
   res.status(200).send({
     title: "Livraria Readcife - A maior livraria em linha reta da América Latina",
-    version: "1.0"
+    version: 2.0,
+    date:"17/10/2020"
   })
 })
 

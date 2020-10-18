@@ -94,9 +94,7 @@
     "categoria":"Inovação",
     "quantidade":20,
     "formatoDigital":false  
-}
-]
-
+},
 {
     "id":13,
     "nome":"O manuscrito original",
@@ -113,6 +111,7 @@
     "quantidade":80,
     "formatoDigital":false  
 }
+]
 
 # Exemplo de funcionários para ser adicionado/ eliminado do banco de dados:
 [{
@@ -204,14 +203,7 @@
     "funcao":"contador",
     "data da admissão":"16/11/2017",
     "aniversário":"17/06/1991"
-}
-]
-
-
-
-
-
-
+},
 {
     "id":11,
     "nome":"Rebeca Cairis", 
@@ -230,3 +222,4 @@
     "data da admissão":"10/07/2017",
     "aniversário":"25/08/1996"
 }
+]
